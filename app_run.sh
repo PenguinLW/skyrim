@@ -1,2 +1,2 @@
-javac -sourcepath ./src -d bin src/calendar/main/MainClass.java
-java -classpath ./bin calendar.main.MainClass
+javac -sourcepath ./src -d bin src/mainpackage/MainClass.java
+java -classpath ./bin mainpackage.MainClass
