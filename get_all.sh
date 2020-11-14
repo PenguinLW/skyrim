@@ -1,0 +1,1 @@
+git clone -o skyrim https://github.com/Kovalsky95/skyrim.git
