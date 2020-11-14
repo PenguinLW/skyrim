@@ -6,5 +6,4 @@ git config --global credential.helper "cache --timeout=3600"
 git pull --all
 git add .
 git commit -m PenguinL
-cd ..
 git push --set-upstream skyrim master
