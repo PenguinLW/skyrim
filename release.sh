@@ -1,6 +1,7 @@
 #in venv
 #pip install -r req.txt
-pip freeze > req.txt
+#pip freeze > req.txt
+chmod u+x *.sh *.py
 #git clone -o skyrim https://github.com/PenguinLW/skyrim.git
 #git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=25200"
